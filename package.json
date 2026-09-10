@@ -1,0 +1,12 @@
+{
+  "name": "my-azure-site",
+  "version": "1.0.0",
+  "description": "Simple static site deployed to Azure App Service via GitHub",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
